@@ -1,0 +1,96 @@
+{
+    "grid_id": "2026",
+    "site_id": "36",
+    "divisions": [
+        {
+            "division": 1,
+            "prizeType": "CASH",
+            "award": "1000000"
+        },
+        {
+            "division": 2,
+            "prizeType": "CASH",
+            "award": "25000"
+        },
+        {
+            "division": 3,
+            "prizeType": "CASH",
+            "award": "25000"
+        },
+        {
+            "division": 4,
+            "prizeType": "CASH",
+            "award": "10000"
+        },
+        {
+            "division": 5,
+            "prizeType": "CASH",
+            "award": "10000"
+        },
+        {
+            "division": 6,
+            "prizeType": "CASH",
+            "award": "10000"
+        },
+        {
+            "division": 7,
+            "prizeType": "CASH",
+            "award": "5000"
+        },
+        {
+            "division": 8,
+            "prizeType": "CASH",
+            "award": "5000"
+        },
+        {
+            "division": 9,
+            "prizeType": "CASH",
+            "award": "5000"
+        },
+        {
+            "division": 10,
+            "prizeType": "CASH",
+            "award": "2500"
+        },
+        {
+            "division": 11,
+            "prizeType": "CASH",
+            "award": "2500"
+        },
+        {
+            "division": 12,
+            "prizeType": "CASH",
+            "award": "2500"
+        },
+        {
+            "division": 13,
+            "prizeType": "CASH",
+            "award": "1000"
+        },
+        {
+            "division": 14,
+            "prizeType": "CASH",
+            "award": "1000"
+        },
+        {
+            "division": 15,
+            "prizeType": "CASH",
+            "award": "500"
+        },
+        {
+            "division": 16,
+            "prizeType": "CASH",
+            "award": "300"
+        },
+        {
+            "division": 17,
+            "prizeType": "FREE_TICKET",
+            "award": "0"
+        },
+        {
+            "division": 18,
+            "prizeType": "CASH",
+            "award": "0"
+        }
+    ]
+}

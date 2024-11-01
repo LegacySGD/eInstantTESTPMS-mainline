@@ -1,0 +1,16 @@
+{
+	"gameName" : "FastPlay HIT 250 WLA",
+	"gameVersion" : "1.0.0",
+	"gameType" : "fastPlay",
+	"mechanicType" : "eGames",
+	"isJackpot" : true,
+	"isPersistence" : false,
+	"details" : [
+		{
+			"softwareId" : "300-2275-001",
+			"revealId" : "4794",
+			"revealVersionId" : "4775",
+			"minRTP": 65.00,
+			"maxRTP" : 65.00
+		}]
+}
